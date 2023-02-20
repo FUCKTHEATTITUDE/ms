@@ -121,7 +121,7 @@ try:
 		print(gr+'['+re+'!'+gr+']'+cy+' for help use : ')
 		print(gr+'$ python3 setup.py -h'+'\n')
 except IndexError:
-	print('\n'+gr+'['+re+'!'+gr+']'+cy+' no argument given : '+ sys.argv[1])
-	print(gr+'['+re+'!'+gr+']'+cy+' for help use : ')
-	print(gr+'['+re+'!'+gr+']'+cy+' https://github.com/th3unkn0n/TeleGram-Scraper#-how-to-install-and-use')
-	print(gr+'$ python3 setup.py -h'+'\n')
+	    	  print('\n'+gr+'['+re+'!'+gr+']'+cy+' no argument given : '+ sys.argv[1])
+		  print(gr+'['+re+'!'+gr+']'+cy+' for help use : ')
+		  print(gr+'['+re+'!'+gr+']'+cy+' https://github.com/th3unkn0n/TeleGram-Scraper#-how-to-install-and-use')
+		  print(gr+'$ python3 setup.py -h'+'\n')
